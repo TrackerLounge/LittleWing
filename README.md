@@ -83,6 +83,9 @@ In order to create the leg, I cut a piece of cardboard as a template and guestim
 
 Note: you may wish to fill the ends of the pvc pipes (e.g. with cotton balls and epoxy). I have caught a finger in the pvc end several times and broke a finger (at least once). I did sand all edges and holes to avoid snages, cuts, and other injuries when preforming punches or kicks.
 
+# Dimensions
+<img src='/images/littleWingDimensions.png' width=800>
+
 <table>
 <thead>
 <tr>
