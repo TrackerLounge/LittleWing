@@ -38,7 +38,7 @@ Note: you may wish to fill the ends of the pvc pipes (e.g. with cotton balls and
 </tbody>
 </table>
 
-Some of the Wing Chun form requires grabbing the dummy's neck for leverage. I used a wood rasp and sand paper to create a rounded neck that is more comfortable to grab at speed than the standard 2x4.
+Some of the Wing Chun form requires grabbing the dummy's neck for leverage. I used a wood rasp and sand paper to create a rounded neck that is more comfortable to grab at speed than the standard 2x4. When Little Wing was hanging on the front door of my apartment, I wanted to be able to use the peep-hole to see who was at the door. I drilled a hole thru Little Wing, to allow me to see thru.
 
 <table>
 <thead>
