@@ -102,7 +102,8 @@ I used fairly heavy duty gate latches with a dead bolt. I knew these would be re
 </tbody>
 </table>
 
-This required that I drill/chisel deadbolt reciever holes into the door jam and install metal deadbolt plates.
+This required that I drill/chisel deadbolt reciever holes into the door jam and install metal deadbolt plates. 
+Even with the carpeting as padding, the door jam still shows signs of scrapping/gouging.
 
 <table>
 <thead>
