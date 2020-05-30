@@ -7,11 +7,71 @@ By way of background, I am a hobbiest. I initally learned a Wing Chun dummy form
 I wanted to learn the form. At the time I lived in a small apartment. In order to learn the form I needed a wooden man but where would I put it and how would I build it. At the time of creation, I looked for plans on the internet and did not find something that would work in my situation. Hopefully, the page will give others in a similar sitation, ideas.
 
 # Construction
-I eventually built most of this wooden man (which I called Little Wing) and hung it on my front door. At that time the vertical section consisted of a 8 ft tall 2x4 piece of lumber. I used a foundation tie from home depot to create a hook to hang Little Wing from the top of the door and created a second hook to attach to the side of the door at ground level below the dead bolt and doorlatch. 
+I eventually built most of this wooden man (which I called Little Wing) and hung it on my front door. At that time the vertical section consisted of a 8 ft tall 2x4 piece of lumber. I used a foundation tie from home depot to create a hook to hang Little Wing from the top of the door and created a second hook to attach to the side of the door at the top of the door and at ground level. Could not find a picture of this from the apartment. The following images (on a smaller door) will have to suffice.
+
+Note: I used metal foundation plates to create the door hooks. These extend the full length of the green carpet. The green carpet was added to protect the door from these metal plates. I estimated the thickness of the door with a 2x4 plus a small phone book. I used a rubber mallet to hammer the end of the plate around the 2x4 and phone book to form the hook. I then wrapped the metal end of the hook in cardboard and tap to protect the door from the metal. I couldn't add much material too the hook because I had to allow for the door to close in order to set the deadbolt to lock things in place.
+
+<table>
+<thead>
+<tr>
+<th>Original Door - Top Mounting - Used in Apartment</th>
+<th>Original Door - Top Mounting - Used in Apartment from Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/originalDoorTopMountingUsedInApartment.JPG' width=400></td>
+<td><img src='/images/originalDoorTopMountingUsedInApartmentBack.JPG' width=400></td>
+</tr>
+</tbody>
+</table>
+
+Each side arm was attached with a door hing. This was not strictly nessasary but made hanging Little Wing on the door a little easier and make it a little more compact when not in use.
+
+<table>
+<thead>
+<tr>
+<th>Original Door - Top Mounting - Used in Apartment - Looking from Bottom Up</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/originalDoorTopMountingUsedInApartmentLookingFromBottomUp.JPG' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Original Door - Bottom Mounting - Used in Apartment</th>
+<th>Original Door - Bottom Mounting - Used in Apartment from Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/originalDoorBottomMountingUsedInApartment.JPG' width=400></td>
+<td><img src='/images/originalDoorBottomMountingUsedInApartmentBack.JPG' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Original Door - Bottom Mounting - Used in Apartment - Looking from Top Down</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/originalDoorBottomMountingUsedInApartmentLookingFromTopDown.JPG' width=400></td>
+</tr>
+</tbody>
+</table>
 
 This was constructed with minimal tools: a hand saw, power drill, hand chisel, and hammer. I used my kitchen table as a vise, squeezing pieces between the leaves while sawing. As a result, the construction is rather crude.
 
-This worked fine for several years. When I moved to another place, I did have to restain parts of the door where the hanger hooks scratched the door but it was a fairly easy repair.
+This worked fine for several years. When I moved to another place, I did have to sand/fill/restain parts of the door where the hanger hooks scratched the door but it was a fairly easy repair.
 
 At my new place I had more space and options. I considered bolting Little Wing to the wall but feared that it would be hard to take down and repair should I break something. I liked the mobility of my apartment setup. Eventually I decided to mount Little Wing on hinges and gate latches. To accomplish this I cut the top and bottom of the 2x4 and added horizontal mounting 2x4s. 
 
