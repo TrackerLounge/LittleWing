@@ -203,4 +203,5 @@ I attached the original body of Little Wing to the horizontal mounting 2x4s usin
 </table>
 
 Click here for youtube video 
+Note: after releasing this I realized I missed a part of section 2 of the form - haven't gone back and remade the video yet.
 [![Alt text](https://github.com/TrackerLounge/LittleWing/blob/master/images/youtube.jpg)](https://www.youtube.com/watch?v=_MpiGPsRAyI)
