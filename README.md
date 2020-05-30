@@ -1,4 +1,4 @@
-# LittleWing
+# Little Wing
 DIY Wing Chun Dummy
 
 # Introduction
