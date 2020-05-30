@@ -21,6 +21,8 @@ The top arms are roughly shoulder height for me. At the wood, they are one fist 
 
 In order to create the leg, I cut a piece of cardboard as a template and guestimated. I wanted the leg to sit just off the floor, so that if I stomped on it, it would only travel a 1/4 in. before hitting the floor and recieving the floors support. I also wanted it off the ground enought to allow me to open the apartment door. Once I felt like I was happy with the general shape (in cardboard), I heated the PVC pipe over my kitchen stove around the first bend. I then placed it on the floor, and bent it around my cardboard template. The PVC cooled and harded. I then headed the second area over the stove for the second bend. I placed it on the floor again and bend it around my cardboard template and allowed it to cool. I then trimmed off the excess pipe to the desired length.
 
+Note: you may wish to fill the ends of the pvc pipes (e.g. with cotton balls and epoxy). I have caught a finger in the pvc end several times and broke a finger (at least once).
+
 <table>
 <thead>
 <tr>
@@ -32,6 +34,21 @@ In order to create the leg, I cut a piece of cardboard as a template and guestim
 <tr>
 <td><img src='/images/wingChunDummyFrontView.JPG' width=400></td>
 <td><img src='/images/wingChunDummySideView.JPG' width=400></td>
+</tr>
+</tbody>
+</table>
+
+Some of the Wing Chun form requires grabbing the dummy's neck for leverage. I used a wood rasp and sand paper to create a rounded neck that is more comfortable to grab at speed than the standard 2x4.
+
+<table>
+<thead>
+<tr>
+<th>Back of Neck</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/roundedBackOfNeck.JPG' width=400></td>
 </tr>
 </tbody>
 </table>
