@@ -6,6 +6,7 @@ By way of background, I am a hobbiest. I initally learned a Wing Chun dummy form
 
 I wanted to learn the form. At the time I lived in a small apartment. In order to learn the form I needed a wooden man but where would I put it and how would I build it. At the time of creation, I looked for plans on the internet and did not find something that would work in my situation. Hopefully, the page will give others in a similar sitation, ideas.
 
+# Construction
 I eventually built most of this wooden man (which I called Little Wing) and hung it on my front door. At that time the vertical section consisted of a 8 ft tall 2x4 piece of lumber. I used a foundation tie from home depot to create a hook to hang Little Wing from the top of the door and created a second hook to attach to the side of the door at ground level below the dead bolt and doorlatch. 
 
 This was constructed with minimal tools: a hand saw, power drill, hand chisel, and hammer. I used my kitchen table as a vise, squeezing pieces between the leaves while sawing. As a result, the construction is rather crude.
