@@ -201,3 +201,6 @@ I attached the original body of Little Wing to the horizontal mounting 2x4s usin
 </tr>
 </tbody>
 </table>
+
+Click here for youtube video 
+[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DojoJoeIntroMidSize.png)](https://www.youtube.com/watch?v=MpiGPsRAyI)
