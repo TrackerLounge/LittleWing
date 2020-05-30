@@ -203,4 +203,4 @@ I attached the original body of Little Wing to the horizontal mounting 2x4s usin
 </table>
 
 Click here for youtube video 
-[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DojoJoeIntroMidSize.png)](https://www.youtube.com/watch?v=MpiGPsRAyI)
+[![Alt text](https://github.com/TrackerLounge/LittleWing/blob/master/images/youtube.jpg)](https://www.youtube.com/watch?v=_MpiGPsRAyI)
