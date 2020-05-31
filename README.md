@@ -166,7 +166,7 @@ The hinges are common gate hinges. A screwed lag bolt is screwed into the door j
 </tbody>
 </table>
 
-I used fairly heavy duty gate latches with a dead bolt. I knew these would be required to take kicking and jaring forces as I performed the Wing Chun form. In my apartment I had used a green rubberized bathroom rug as padding to protect the door from scratches and dings. I used some of this carpet on the ends of the horizontal 2x4s to protect the doorjam a bit, provide a tighter fit, and prevent rattling. 
+I used fairly heavy duty gate latches with a dead bolt. I knew these would be required to take kicking and jaring forces as I performed the Wing Chun form. In my apartment I used a green rubberized bathroom rug as padding to protect the door from scratches and dings. At my new place, I used some of this carpet on the ends of the horizontal 2x4s to protect the doorjam a bit, provide a tighter fit, and prevent rattling. 
 
 <table>
 <thead>
