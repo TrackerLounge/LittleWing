@@ -2,7 +2,11 @@
 DIY Wing Chun Dummy
 
 # Introduction
-By way of background, I am a hobbiest. I initally learned a Wing Chun dummy form from a book - Traditional Wooden Dummy by Samuel Kwok and Tonny  Massengill - ISBN #: 978-1-933901-46-6. I have no relations to the authors but enjoyed the book. 
+By way of background, I am a hobbiest. I initally learned a Wing Chun dummy form from a book - Traditional Wooden Dummy by Samuel Kwok and Tonny  Massengill - ISBN #: 978-1-933901-46-6. [Book on Amazon](https://www.amazon.com/Samuel-Kwok/dp/1933901764/ref=sr_1_2?dchild=1&keywords=Traditional+Wooden+Dummy+by+Samuel+Kwok&qid=1590950904&sr=8-2)
+As part of the learning process I used a second book - Wing Chun Kung Fu The Wooden Dummy by Sifu Shaun Rawcliffe - ISBN 978-1-84797-026-8. [Book on Amazon](https://www.amazon.com/Wing-Chun-Kung-Fu-Wooden/dp/1847970265/ref=sr_1_2?crid=Y2FSG9ETC1RE&dchild=1&keywords=wing+chun+kung+fu+the+wooden+dummy&qid=1590950997&sprefix=wing+chun+kung+fu+the+%2Caps%2C234&sr=8-2)
+At times I had to combine pictures and angles from both books to get a sense of hand motion and striking. 
+
+I have no relations to the authors but enjoyed the books. 
 
 I wanted to learn the form. At the time I lived in a small apartment. In order to learn the form I needed a wooden man but where would I put it and how would I build it. At the time of creation, I looked for plans on the internet and did not find something that would work in my situation. Hopefully, the page will give others in a similar sitation, ideas.
 
