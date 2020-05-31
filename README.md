@@ -13,7 +13,9 @@ I wanted to learn the form. At the time I lived in a small apartment. In order t
 # Construction
 I eventually built most of this wooden man (which I called Little Wing) and hung it on my front door. At that time the vertical section consisted of a 8 ft tall 2x4 piece of lumber. I used a foundation tie from home depot to create a hook to hang Little Wing from the top of the door and created a second hook to attach to the side of the door at the top of the door and at ground level. Could not find a picture of this from the apartment. The following images (on a smaller door) will have to suffice.
 
-Note: I used metal foundation plates to create the door hooks. These extend the full length of the green carpet. The green carpet was added to protect the door from these metal plates. I estimated the thickness of the door with a 2x4 plus a small phone book. I used a rubber mallet to hammer the end of the plate around the 2x4 and phone book to form the hook. I then wrapped the metal end of the hook in cardboard and tap to protect the door from the metal. I couldn't add much material too the hook because I had to allow for the door to close in order to set the deadbolt to lock things in place.
+Note: I used metal foundation plates to create the door hooks. These extend the full length of the green carpet. The green carpet was added to protect the door from these metal plates. I estimated the thickness of the door with a 2x4 and a small phone book (small town = thin phone book). I used a rubber mallet to hammer the end of the plate around the 2x4 and phone book to form the hook. I then wrapped the metal end of the hook in cardboard and tape to protect the door from the metal. I couldn't add much material to the hook because I had to allow for the door to close, in order to set the deadbolt, to lock things in place.
+
+Note: The door needs to have a solid core for this to work. Light-weight hollow core doors would not take the abuse. This also puts a lot of stress/strain on the door latch and deadbolt. A metal door frame is prefered to a wooden door frame.
 
 <table>
 <thead>
