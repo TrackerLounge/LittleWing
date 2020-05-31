@@ -87,6 +87,8 @@ The arms and leg are created from 1 in. PVC. Each PVC pipe is attached to a smal
 
 <img src='/images/pvcAttachmentToWoodMountingBlock.png' width=800>
 
+Note: the screws are drilled flush with the U-shapped metal electrical bracket.
+
 A second 2x4 block is placed above the PVC and was cut/chiseled to create a tight fit. This area was then epoxied. Originally I used Liquid Nail Glue for this purpose. The Liquid Nail Glue failed almost immediately. It formed a gooey mess that I had to scrap,chip, peel, pry, and sand off. Do not use Liquid Nail glue. I replaced the liquid nail glue with epoxy, after this failure and has been in place ever since. I mixed the epoxy with cotton ball to help the epoxy stay in place while drying, and act as fiberous reenforcement. I also taped along the cracks to form temporary glue dams to prevent the epoxy from dripping out the sides. In cases where there were larger gaps, I inserted bits of popsicle sticks to fill in larger voids. The epoxy work was done in my tiny bathroom over plastic (garbage bags). It hasn't failed yet, after several years of use/abuse. Though there is some slight movement. 
 
 <img src='/images/topAndBottomWoodMountingBlocks.png' width=800>
