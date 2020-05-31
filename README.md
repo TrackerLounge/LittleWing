@@ -8,7 +8,7 @@ At times I had to combine pictures and angles from both books to get a sense of 
 
 I have no relations to the authors but enjoyed the books. 
 
-I wanted to learn the form. At the time I lived in a small apartment. In order to learn the form I needed a wooden man but where would I put it and how would I build it. At the time of creation, I looked for plans on the internet and did not find something that would work in my situation. Hopefully, the page will give others in a similar sitation, ideas.
+I wanted to learn the form. At the time I lived in a small apartment. In order to learn the form I needed a wooden man but where would I put it and how would I build it. At the time of creation, I looked for plans on the internet and did not find something that would work in my situation. Hopefully, this page will give others in a similar sitation, ideas. (And hopefully you don't get in trouble with landlords or other tenats).
 
 # Construction
 I eventually built most of this wooden man (which I called Little Wing) and hung it on my front door. 
